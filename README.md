@@ -33,6 +33,12 @@ Open your command line and go through the main application directory
 $ cd ../rezzyraunt
 $ python manage.py runserver
 ```
+
+# Running tests
+```
+$ python manage.py test  
+```
+
 # API documentation
 After you have started the application, you'll be able to open your browser and access this address below:
 
